@@ -42,3 +42,7 @@ docker run -ti --rm  --name deepdream-gpu --device /dev/nvidia0:/dev/nvidia0 --d
 ```
 
 7. To process the video, use process_video.sh in this repo.
+
+## License
+
+MIT License. Yay!
