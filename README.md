@@ -22,8 +22,7 @@ However instead of using the provided visionai/clouddream docker image, I used t
 4. Modify deepdream.py by adding these lines:
 
 ```python
-caffe.set_device(0
-)
+caffe.set_device(0)
 caffe.set_mode_gpu()
 ```
 
